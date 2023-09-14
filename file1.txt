@@ -1,4 +1,5 @@
 mano kazkoks darbas
 dirbu toliau
 pridejau new feature
+bugfix
 
